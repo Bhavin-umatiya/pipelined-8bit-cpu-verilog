@@ -1,4 +1,4 @@
-# Custom 8-bit Pipelined CPU Core (Verilog)
+# Custom 8-bit Pipelined CPU Core
 
 ## Architecture Overview
 RTL implementation of a custom **5-stage pipelined** 8-bit CPU core in Verilog HDL. Designed with a hardware-centric approach to achieve high throughput and instruction-level parallelism, optimized for straightforward synthesis and RTL simulation.
